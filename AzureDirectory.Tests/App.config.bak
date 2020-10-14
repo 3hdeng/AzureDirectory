@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+  <!-- azure SETTINGS -->
+  <add key="BlobStorageEndpoint" value="https://luceneblob1.blob.core.windows.net"/>
+  <add key="AccountName" value="luceneblob1"/>
+  <add key="AccountSharedKey" value="l9r5s5gx040B3lWIDcC79uiXx7Ej6pmRlwiaUwlZt5qWiRdadaZDq1AWHSCxK37n1gxoRgmtojem2MibsBjzZA=="/>
+  </appSettings>
+</configuration>

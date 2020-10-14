@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- File name extension must be .runsettings -->
+<RunSettings>
+  <RunConfiguration>
+	<ResultsDirectory>.\TestResults</ResultsDirectory>
+	<EnvironmentVariables>
+	  <!-- List of environment variables we want to set-->
+	  <DataConnectionString>DefaultEndpointsProtocol=https;AccountName=luceneblob1;AccountKey=l9r5s5gx040B3lWIDcC79uiXx7Ej6pmRlwiaUwlZt5qWiRdadaZDq1AWHSCxK37n1gxoRgmtojem2MibsBjzZA==;EndpointSuffix=core.windows.net</DataConnectionString>
+	</EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>
